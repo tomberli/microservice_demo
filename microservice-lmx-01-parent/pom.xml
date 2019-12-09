@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.lmx.microservice</groupId>
-    <artifactId>com-lmx-microservice-01</artifactId>
+    <artifactId>microservice-lmx-01-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
 
 
