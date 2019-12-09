@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/microservice-lmx-01-parent/microservice-lmx-01-parent.iml" filepath="$PROJECT_DIR$/microservice-lmx-01-parent/microservice-lmx-01-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-lmx-02-api/microservice-lmx-02-api.iml" filepath="$PROJECT_DIR$/microservice-lmx-02-api/microservice-lmx-02-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/microservice-lmx-03-provider-product-8001.iml" filepath="$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/microservice-lmx-03-provider-product-8001.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/microservice_demo.iml" filepath="$PROJECT_DIR$/.idea/microservice_demo.iml" />
     </modules>
   </component>

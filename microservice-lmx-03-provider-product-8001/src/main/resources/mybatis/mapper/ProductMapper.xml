@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.lmx.microservice.mapper.ProductMapper">
+
+    <select id="findById" resultType="com.lmx.microservice.entity.Product" parameterType="Long">
+        select pid, product_name, db_source from product where pid=#{pid};
+    </select>
+
+    <select id="findAll" resultType="com.lmx.microservice.entity.Product">
+        select pid, product_name, db_source from product;
+    </select>
+
+    <insert id="addProduct" parameterType="com.lmx.microservice.entity.Product">
+        INSERT INTO product(product_name, db_source) VALUES(#{productName}, DATABASE());
+    </insert>
+
+</mapper>
