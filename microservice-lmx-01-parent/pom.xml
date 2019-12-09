@@ -10,6 +10,7 @@
     <modules>
         <module>../microservice-lmx-02-api</module>
         <module>../microservice-lmx-03-provider-product-8001</module>
+        <module>../microservice-lmx-04-consumer-product-80</module>
     </modules>
     <!--父级项目的packaging都为pom-->
     <packaging>pom</packaging>
