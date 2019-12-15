@@ -11,6 +11,13 @@
         <module>../microservice-lmx-02-api</module>
         <module>../microservice-lmx-03-provider-product-8001</module>
         <module>../microservice-lmx-04-consumer-product-80</module>
+        <module>../microservice-lmx-05-eureka-6001</module>
+        <module>../microservice-lmx-06-eureka-6002</module>
+        <module>../microservice-lmx-07-provider-product-8002</module>
+        <module>../microservice-lmx-08-consumer-product-feign-80</module>
+        <module>../microservice-lmx-09-provider-product-hystrix-8001</module>
+        <module>../microservice-lmx-10-hystrix-dashboard-9001</module>
+        <module>../microservice-lmx-11-zuul-gateway-7001</module>
     </modules>
     <!--父级项目的packaging都为pom-->
     <packaging>pom</packaging>

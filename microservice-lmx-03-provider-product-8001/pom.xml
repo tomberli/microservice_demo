@@ -35,6 +35,12 @@
             <artifactId>spring-boot-starter-test</artifactId>
         </dependency>
 
+        <!-- 导入Eureka客户端的依赖，将 微服务提供者 注册进 Eureka 记住这是客服端 -->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
+        </dependency>
+
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>

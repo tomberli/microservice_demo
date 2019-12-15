@@ -6,6 +6,13 @@
       <module fileurl="file://$PROJECT_DIR$/microservice-lmx-02-api/microservice-lmx-02-api.iml" filepath="$PROJECT_DIR$/microservice-lmx-02-api/microservice-lmx-02-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/microservice-lmx-03-provider-product-8001.iml" filepath="$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/microservice-lmx-03-provider-product-8001.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/microservice-lmx-04-consumer-product-80.iml" filepath="$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/microservice-lmx-04-consumer-product-80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-lmx-05-eureka-6001/microservice-lmx-05-eureka-6001.iml" filepath="$PROJECT_DIR$/microservice-lmx-05-eureka-6001/microservice-lmx-05-eureka-6001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-lmx-06-eureka-6002/microservice-lmx-06-eureka-6002.iml" filepath="$PROJECT_DIR$/microservice-lmx-06-eureka-6002/microservice-lmx-06-eureka-6002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/microservice-lmx-07-provider-product-8002.iml" filepath="$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/microservice-lmx-07-provider-product-8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-lmx-08-consumer-product-feign-80/microservice-lmx-08-consumer-product-feign-80.iml" filepath="$PROJECT_DIR$/microservice-lmx-08-consumer-product-feign-80/microservice-lmx-08-consumer-product-feign-80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-lmx-09-provider-product-hystrix-8001/microservice-lmx-09-provider-product-hystrix-8001.iml" filepath="$PROJECT_DIR$/microservice-lmx-09-provider-product-hystrix-8001/microservice-lmx-09-provider-product-hystrix-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-lmx-10-hystrix-dashboard-9001/microservice-lmx-10-hystrix-dashboard-9001.iml" filepath="$PROJECT_DIR$/microservice-lmx-10-hystrix-dashboard-9001/microservice-lmx-10-hystrix-dashboard-9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-lmx-11-zuul-gateway-7001/microservice-lmx-11-zuul-gateway-7001.iml" filepath="$PROJECT_DIR$/microservice-lmx-11-zuul-gateway-7001/microservice-lmx-11-zuul-gateway-7001.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/microservice_demo.iml" filepath="$PROJECT_DIR$/.idea/microservice_demo.iml" />
     </modules>
   </component>
