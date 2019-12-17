@@ -2,216 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e277fcd4-c665-4dc0-999b-4c803f2b6605" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_andrewoma_dexx_dexx_collections_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_vlsi_compactmap_compactmap_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_annotations_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_15_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_9_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_java8_9_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_0_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_60.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_60.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_0_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_0_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_0_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_0_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_dashboard_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_0_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_d3js_3_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-05-eureka-6001/microservice-lmx-05-eureka-6001.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-05-eureka-6001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-05-eureka-6001/src/main/java/com/lmx/microservice/EurekaServer_6001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-05-eureka-6001/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-05-eureka-6001/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-05-eureka-6001/target/classes/com/lmx/microservice/EurekaServer_6001.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-06-eureka-6002/microservice-lmx-06-eureka-6002.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-06-eureka-6002/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-06-eureka-6002/src/main/java/com/lmx/microservice/EurekaServer_6002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-06-eureka-6002/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-06-eureka-6002/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-06-eureka-6002/target/classes/com/lmx/microservice/EurekaServer_6002.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/microservice-lmx-07-provider-product-8002.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/src/main/java/com/lmx/microservice/ProductProvider_8002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/src/main/java/com/lmx/microservice/controller/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/src/main/java/com/lmx/microservice/mapper/ProductMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/src/main/java/com/lmx/microservice/service/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/src/main/java/com/lmx/microservice/service/impl/ProductServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/src/main/resources/mybatis/mapper/ProductMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/src/main/resources/mybatis/mybatis.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/target/classes/META-INF/microservice-lmx-07-provider-product-8002.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/target/classes/com/lmx/microservice/ProductProvider_8002.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/target/classes/com/lmx/microservice/controller/ProductController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/target/classes/com/lmx/microservice/mapper/ProductMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/target/classes/com/lmx/microservice/service/ProductService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/target/classes/com/lmx/microservice/service/impl/ProductServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/target/classes/mybatis/mapper/ProductMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/target/classes/mybatis/mybatis.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-08-consumer-product-feign-80/microservice-lmx-08-consumer-product-feign-80.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-08-consumer-product-feign-80/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-08-consumer-product-feign-80/src/main/java/com/lmx/microservice/ProductConsumer_80_Feign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-08-consumer-product-feign-80/src/main/java/com/lmx/microservice/controller/ProductController_Feign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-08-consumer-product-feign-80/src/main/java/com/lmx/microservice/service/ProductClientService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-08-consumer-product-feign-80/src/main/java/com/lmx/microservice/service/ProductClientServiceFallBack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-08-consumer-product-feign-80/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-08-consumer-product-feign-80/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-08-consumer-product-feign-80/target/classes/com/lmx/microservice/ProductConsumer_80_Feign.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-08-consumer-product-feign-80/target/classes/com/lmx/microservice/controller/ProductController_Feign.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-08-consumer-product-feign-80/target/classes/com/lmx/microservice/service/ProductClientService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-08-consumer-product-feign-80/target/classes/com/lmx/microservice/service/ProductClientServiceFallBack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-09-provider-product-hystrix-8001/microservice-lmx-09-provider-product-hystrix-8001.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-09-provider-product-hystrix-8001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-09-provider-product-hystrix-8001/src/main/java/com/lmx/microservice/ProductProvider_8001_Hystrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-09-provider-product-hystrix-8001/src/main/java/com/lmx/microservice/controller/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-09-provider-product-hystrix-8001/src/main/java/com/lmx/microservice/mapper/ProductMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-09-provider-product-hystrix-8001/src/main/java/com/lmx/microservice/service/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-09-provider-product-hystrix-8001/src/main/java/com/lmx/microservice/service/impl/ProductServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-09-provider-product-hystrix-8001/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-09-provider-product-hystrix-8001/src/main/resources/mybatis/mapper/ProductMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-09-provider-product-hystrix-8001/src/main/resources/mybatis/mybatis.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-09-provider-product-hystrix-8001/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-09-provider-product-hystrix-8001/target/classes/com/lmx/microservice/ProductProvider_8001_Hystrix.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-09-provider-product-hystrix-8001/target/classes/com/lmx/microservice/controller/ProductController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-09-provider-product-hystrix-8001/target/classes/com/lmx/microservice/mapper/ProductMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-09-provider-product-hystrix-8001/target/classes/com/lmx/microservice/service/ProductService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-09-provider-product-hystrix-8001/target/classes/com/lmx/microservice/service/impl/ProductServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-09-provider-product-hystrix-8001/target/classes/mybatis/mapper/ProductMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-09-provider-product-hystrix-8001/target/classes/mybatis/mybatis.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-10-hystrix-dashboard-9001/microservice-lmx-10-hystrix-dashboard-9001.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-10-hystrix-dashboard-9001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-10-hystrix-dashboard-9001/src/main/java/com/lmx/microservice/HystrixDashboard_9001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-10-hystrix-dashboard-9001/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-10-hystrix-dashboard-9001/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-10-hystrix-dashboard-9001/target/classes/com/lmx/microservice/HystrixDashboard_9001.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-11-zuul-gateway-7001/microservice-lmx-11-zuul-gateway-7001.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-11-zuul-gateway-7001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-11-zuul-gateway-7001/src/main/java/com/lmx/microservice/ZuulServer_7001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-11-zuul-gateway-7001/src/main/java/com/lmx/microservice/filter/LoginFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-11-zuul-gateway-7001/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-11-zuul-gateway-7001/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-11-zuul-gateway-7001/target/classes/com/lmx/microservice/ZuulServer_7001.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-lmx-11-zuul-gateway-7001/target/classes/com/lmx/microservice/filter/LoginFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_4_11_0_201803080745_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_4_11_0_201803080745_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-12-config-server-5001/microservice-lmx-12-config-server-5001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-12-config-server-5001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-12-config-server-5001/src/main/java/com/lmx/microservice/ConfigServer_5001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-12-config-server-5001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-12-config-server-5001/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-12-config-server-5001/target/classes/com/lmx/microservice/ConfigServer_5001.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-13-config-client-8080/microservice-lmx-13-config-client-8080.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-13-config-client-8080/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-13-config-client-8080/src/main/java/com/lmx/microservice/ConfigClient_8080.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-13-config-client-8080/src/main/java/com/lmx/microservice/controller/ConfigClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-13-config-client-8080/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-13-config-client-8080/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-13-config-client-8080/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-13-config-client-8080/target/classes/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-13-config-client-8080/target/classes/com/lmx/microservice/ConfigClient_8080.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-13-config-client-8080/target/classes/com/lmx/microservice/controller/ConfigClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-14-eureka-config-6001/microservice-lmx-14-eureka-config-6001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-14-eureka-config-6001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-14-eureka-config-6001/src/main/java/com/lmx/microservice/EurekaServer_Config_6001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-14-eureka-config-6001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-14-eureka-config-6001/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-14-eureka-config-6001/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-14-eureka-config-6001/target/classes/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-14-eureka-config-6001/target/classes/com/lmx/microservice/EurekaServer_Config_6001.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/microservice-lmx-15-product-config-8001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/java/com/lmx/microservice/ProductProvider_Config_8001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/java/com/lmx/microservice/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/java/com/lmx/microservice/mapper/ProductMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/java/com/lmx/microservice/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/java/com/lmx/microservice/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/resources/mybatis/mapper/ProductMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/resources/mybatis/mybatis.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/target/classes/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/target/classes/com/lmx/microservice/ProductProvider_Config_8001.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/target/classes/com/lmx/microservice/controller/ProductController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/target/classes/com/lmx/microservice/mapper/ProductMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/target/classes/com/lmx/microservice/service/ProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/target/classes/com/lmx/microservice/service/impl/ProductServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/target/classes/mybatis/mapper/ProductMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/target/classes/mybatis/mybatis.cfg.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice-lmx-01-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-lmx-01-parent/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/microservice-lmx-03-provider-product-8001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/microservice-lmx-03-provider-product-8001.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/src/main/java/com/lmx/microservice/ProductProvider_8001.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/src/main/java/com/lmx/microservice/ProductProvider_8001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/target/classes/com/lmx/microservice/ProductProvider_8001.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/target/classes/com/lmx/microservice/ProductProvider_8001.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/microservice-lmx-04-consumer-product-80.iml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/microservice-lmx-04-consumer-product-80.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/src/main/java/com/lmx/microservice/ProductConsumer_80.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/src/main/java/com/lmx/microservice/ProductConsumer_80.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/src/main/java/com/lmx/microservice/config/ConfigBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/src/main/java/com/lmx/microservice/config/ConfigBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/src/main/java/com/lmx/microservice/controller/ProductController_Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/src/main/java/com/lmx/microservice/controller/ProductController_Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/target/classes/com/lmx/microservice/ProductConsumer_80.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/target/classes/com/lmx/microservice/ProductConsumer_80.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/target/classes/com/lmx/microservice/config/ConfigBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/target/classes/com/lmx/microservice/config/ConfigBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/target/classes/com/lmx/microservice/controller/ProductController_Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/target/classes/com/lmx/microservice/controller/ProductController_Consumer.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/com-lmx-microservice-01/target/" />
@@ -227,6 +75,11 @@
     <ignored path="$PROJECT_DIR$/microservice-lmx-09-provider-product-hystrix-8001/target/" />
     <ignored path="$PROJECT_DIR$/microservice-lmx-10-hystrix-dashboard-9001/target/" />
     <ignored path="$PROJECT_DIR$/microservice-lmx-11-zuul-gateway-7001/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-lmx-config-server-5001/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-lmx-12-config-server-5001/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-lmx-13-config-client-8080/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-lmx-14-eureka-config-6001/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,37 +92,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/src/main/java/com/lmx/microservice/ProductConsumer_80.java">
+        <entry file="file://$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/java/com/lmx/microservice/service/impl/ProductServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-lmx-05-eureka-6001/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="12" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-lmx-11-zuul-gateway-7001/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/microservice-lmx-11-zuul-gateway-7001/src/main/java/com/lmx/microservice/filter/LoginFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="59" column="20" lean-forward="true" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+            <state relative-caret-position="66">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -278,10 +104,70 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-lmx-11-zuul-gateway-7001/src/main/java/com/lmx/microservice/ZuulServer_7001.java">
+        <entry file="file://$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/java/com/lmx/microservice/mapper/ProductMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="132">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/java/com/lmx/microservice/service/ProductService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/java/com/lmx/microservice/ProductProvider_Config_8001.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/resources/mybatis/mapper/ProductMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/resources/mybatis/mybatis.cfg.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/java/com/lmx/microservice/controller/ProductController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -301,17 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/com-lmx-microservice-01/pom.xml" />
-        <option value="$PROJECT_DIR$/microservicelmx01/pom.xml" />
-        <option value="$PROJECT_DIR$/microservice-lmx-01-parent/pom.xml" />
-        <option value="$PROJECT_DIR$/microservice-lmx-02-api/src/main/java/com/lmx/entity/Product.java" />
-        <option value="$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/src/main/java/com/lmx/microservice/aa.java" />
-        <option value="$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/src/main/resources/mybatis/mapper/ProductMapper.xml" />
-        <option value="$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/src/main/java/com/lmx/microservice/service/ProductService.java" />
-        <option value="$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/src/main/java/com/lmx/microservice/service/impl/ProductServiceImpl.java" />
-        <option value="$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/src/main/java/com/lmx/microservice/mapper/ProductMapper.java" />
-        <option value="$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/src/main/java/com/lmx/microservice/controller/ProductController.java" />
-        <option value="$PROJECT_DIR$/microservice-lmx-05-eureka-6001/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-lmx-05-eureka-6001/src/main/java/com/lmx/microservice/EurekaServer_6001.java" />
         <option value="$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/src/main/java/com/lmx/microservice/ProductProvider_8001.java" />
@@ -321,7 +196,6 @@
         <option value="$PROJECT_DIR$/microservice-lmx-05-eureka-6001/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/microservice-lmx-06-eureka-6002/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/pom.xml" />
@@ -348,6 +222,22 @@
         <option value="$PROJECT_DIR$/microservice-lmx-11-zuul-gateway-7001/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-lmx-11-zuul-gateway-7001/src/main/java/com/lmx/microservice/ZuulServer_7001.java" />
         <option value="$PROJECT_DIR$/microservice-lmx-11-zuul-gateway-7001/src/main/java/com/lmx/microservice/filter/LoginFilter.java" />
+        <option value="$PROJECT_DIR$/microservice-lmx-12-config-server-5001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-lmx-12-config-server-5001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-lmx-12-config-server-5001/src/main/java/com/lmx/microservice/ConfigServer_5001.java" />
+        <option value="$PROJECT_DIR$/microservice-lmx-13-config-client-8080/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-lmx-13-config-client-8080/src/main/java/com/lmx/microservice/ConfigClient_8080.java" />
+        <option value="$PROJECT_DIR$/microservice-lmx-13-config-client-8080/src/main/java/com/lmx/microservice/controller/ConfigClient.java" />
+        <option value="$PROJECT_DIR$/microservice-lmx-14-eureka-config-6001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-lmx-14-eureka-config-6001/src/main/java/com/lmx/microservice/EurekaServer_Config_6001.java" />
+        <option value="$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/resources/mybatis/mapper/ProductMapper.xml" />
+        <option value="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/java/com/lmx/microservice/service/ProductService.java" />
+        <option value="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/java/com/lmx/microservice/mapper/ProductMapper.java" />
+        <option value="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/java/com/lmx/microservice/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/java/com/lmx/microservice/service/impl/ProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/java/com/lmx/microservice/ProductProvider_Config_8001.java" />
       </list>
     </option>
   </component>
@@ -378,104 +268,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
       <pane id="CatdeaLogs" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="microservice_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice_demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-lmx-03-provider-product-8001" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-lmx-05-eureka-6001" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-lmx-05-eureka-6001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-lmx-05-eureka-6001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-lmx-05-eureka-6001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-lmx-11-zuul-gateway-7001" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-lmx-11-zuul-gateway-7001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-lmx-11-zuul-gateway-7001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-lmx-11-zuul-gateway-7001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-lmx-11-zuul-gateway-7001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-lmx-11-zuul-gateway-7001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="filter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-lmx-11-zuul-gateway-7001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -487,7 +283,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/microservice-lmx-11-zuul-gateway-7001/src/main/java/com/lmx/microservice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/java/com/lmx/microservice" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -502,11 +298,11 @@
       <recent name="microservice" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\application software\IDEA\workspace_javabase\microservice_demo\microservice-lmx-11-zuul-gateway-7001\src\main\java\com\lmx\microservice" />
-      <recent name="D:\application software\IDEA\workspace_javabase\microservice_demo\microservice-lmx-11-zuul-gateway-7001\src\main\resources" />
-      <recent name="D:\application software\IDEA\workspace_javabase\microservice_demo\microservice-lmx-10-hystrix-dashboard-9001\src\main\java\com\lmx\microservice" />
-      <recent name="D:\application software\IDEA\workspace_javabase\microservice_demo\microservice-lmx-10-hystrix-dashboard-9001\src\main\resources" />
-      <recent name="D:\application software\IDEA\workspace_javabase\microservice_demo\microservice-lmx-08-consumer-product-feign-80\src\main\java\com\lmx\microservice\service" />
+      <recent name="D:\application software\IDEA\workspace_javabase\microservice_demo\microservice-lmx-15-product-config-8001\src\main\java\com\lmx\microservice" />
+      <recent name="D:\application software\IDEA\workspace_javabase\microservice_demo\microservice-lmx-15-product-config-8001\src\main\resources" />
+      <recent name="D:\application software\IDEA\workspace_javabase\microservice_demo\microservice-lmx-14-eureka-config-6001\src\main\java\com\lmx\microservice" />
+      <recent name="D:\application software\IDEA\workspace_javabase\microservice_demo\microservice-lmx-14-eureka-config-6001\src\main\resources" />
+      <recent name="D:\application software\IDEA\workspace_javabase\microservice_demo\microservice-lmx-13-config-client-8080\src\main\java\com\lmx\microservice" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -521,7 +317,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.11_ZuulServer_7001">
+  <component name="RunManager" selected="Spring Boot.15_ProductProvider_Config_8001">
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="com-lmx-microservice-01" />
       <option name="VM_PARAMETERS" />
@@ -597,20 +393,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="05_EurekaServer_6001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
-      <module name="microservice-lmx-05-eureka-6001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lmx.microservice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lmx.microservice.EurekaServer_6001" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="06_EurekaServer_6002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
       <module name="microservice-lmx-06-eureka-6002" />
       <extension name="coverage">
@@ -620,36 +402,6 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lmx.microservice.EurekaServer_6002" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="09_ProductProvider_8001_Hystrix" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
-      <module name="microservice-lmx-09-provider-product-hystrix-8001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lmx.microservice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lmx.microservice.ProductProvider_8001_Hystrix" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="10_HystrixDashboard_9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
-      <module name="microservice-lmx-10-hystrix-dashboard-9001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lmx.microservice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lmx.microservice.HystrixDashboard_9001" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
@@ -671,22 +423,79 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="12_ConfigServer_5001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="microservice-lmx-12-config-server-5001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lmx.microservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lmx.microservice.ConfigServer_5001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="13_ConfigClient_8080" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="microservice-lmx-13-config-client-8080" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lmx.microservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lmx.microservice.ConfigClient_8080" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="14_EurekaServer_Config_6001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-lmx-14-eureka-config-6001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lmx.microservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lmx.microservice.EurekaServer_Config_6001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="15_ProductProvider_Config_8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="microservice-lmx-15-product-config-8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lmx.microservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lmx.microservice.ProductProvider_Config_8001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Spring Boot.03_ProductProvider_8001" />
       <item itemvalue="Spring Boot.04_ProductConsumer_80" />
-      <item itemvalue="Spring Boot.05_EurekaServer_6001" />
+      <item itemvalue="Spring Boot.14_EurekaServer_Config_6001" />
       <item itemvalue="Spring Boot.06_EurekaServer_6002" />
-      <item itemvalue="Spring Boot.09_ProductProvider_8001_Hystrix" />
-      <item itemvalue="Spring Boot.10_HystrixDashboard_9001" />
       <item itemvalue="Spring Boot.11_ZuulServer_7001" />
+      <item itemvalue="Spring Boot.12_ConfigServer_5001" />
+      <item itemvalue="Spring Boot.13_ConfigClient_8080" />
+      <item itemvalue="Spring Boot.15_ProductProvider_Config_8001" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.15_ProductProvider_Config_8001" />
+        <item itemvalue="Spring Boot.12_ConfigServer_5001" />
+        <item itemvalue="Spring Boot.13_ConfigClient_8080" />
         <item itemvalue="Spring Boot.11_ZuulServer_7001" />
         <item itemvalue="Spring Boot.06_EurekaServer_6002" />
-        <item itemvalue="Spring Boot.05_EurekaServer_6001" />
-        <item itemvalue="Spring Boot.09_ProductProvider_8001_Hystrix" />
-        <item itemvalue="Spring Boot.10_HystrixDashboard_9001" />
       </list>
     </recent_temporary>
   </component>
@@ -708,7 +517,8 @@
       <workItem from="1576062430430" duration="4021000" />
       <workItem from="1576134882906" duration="3943000" />
       <workItem from="1576219660009" duration="5498000" />
-      <workItem from="1576385715612" duration="3185000" />
+      <workItem from="1576385715612" duration="11935000" />
+      <workItem from="1576590250202" duration="237000" />
     </task>
     <task id="LOCAL-00001" summary="mm">
       <created>1575877900334</created>
@@ -738,11 +548,18 @@
       <option name="project" value="LOCAL" />
       <updated>1575898610951</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="添加zuul">
+      <created>1576393590812</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576393590812</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29840000" />
+    <option name="totallyTimeSpent" value="38827000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -756,7 +573,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3184569" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25567323" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -767,7 +584,7 @@
       <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3622951" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5032787" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -844,187 +661,10 @@
     <MESSAGE value="cc" />
     <MESSAGE value="继续" />
     <MESSAGE value="消费者服务" />
-    <option name="LAST_COMMIT_MESSAGE" value="消费者服务" />
+    <MESSAGE value="添加zuul" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加zuul" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/microservice-lmx-01-parent/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-lmx-06-eureka-6002/src/main/java/microservice/EurekaServer_6002.java" />
-    <entry file="file://$PROJECT_DIR$/microservice-lmx-06-eureka-6002/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-lmx-05-eureka-6001/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="13" selection-start-line="14" selection-start-column="4" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1135">
-          <caret line="56" column="19" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/src/main/java/com/lmx/microservice/service/impl/ProductServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/src/main/java/com/lmx/microservice/service/ProductService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/src/main/java/com/lmx/microservice/mapper/ProductMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/src/main/java/com/lmx/microservice/ProductProvider_8001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/microservice-lmx-04-consumer-product-80.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-lmx-05-eureka-6001/src/main/java/com/lmx/microservice/EurekaServer_6001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/microservice-lmx-03-provider-product-8001.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-lmx-06-eureka-6002/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/src/main/resources/mybatis/mybatis.cfg.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-lmx-06-eureka-6002/src/main/java/com/lmx/microservice/EurekaServer_6002.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/src/main/java/com/lmx/microservice/ProductProvider_8002.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/src/main/java/com/lmx/microservice/config/ConfigBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="16" column="15" selection-start-line="14" selection-start-column="8" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/src/main/java/com/lmx/microservice/controller/ProductController_Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-lmx-09-provider-product-hystrix-8001/src/main/java/com/lmx/microservice/mapper/ProductMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-lmx-09-provider-product-hystrix-8001/src/main/resources/mybatis/mybatis.cfg.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/src/main/resources/mybatis/mapper/ProductMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="61" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-lmx-09-provider-product-hystrix-8001/src/main/resources/mybatis/mapper/ProductMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="78" selection-start-line="14" selection-start-column="78" selection-end-line="14" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/src/main/resources/mybatis/mapper/ProductMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/src/main/java/com/lmx/microservice/mapper/ProductMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -1195,7 +835,7 @@
     <entry file="file://$PROJECT_DIR$/microservice-lmx-04-consumer-product-80/src/main/java/com/lmx/microservice/ProductConsumer_80.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -1209,24 +849,202 @@
     <entry file="file://$PROJECT_DIR$/microservice-lmx-11-zuul-gateway-7001/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/microservice-lmx-11-zuul-gateway-7001/src/main/java/com/lmx/microservice/ZuulServer_7001.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-lmx-config-server-5001/pom.xml" />
     <entry file="file://$PROJECT_DIR$/microservice-lmx-11-zuul-gateway-7001/src/main/java/com/lmx/microservice/filter/LoginFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="59" column="20" lean-forward="true" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+        <state relative-caret-position="137">
+          <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-lmx-12-config-server-5001/microservice-lmx-12-config-server-5001.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-lmx-12-config-server-5001/src/main/java/com/lmx/microservice/ConfigServer_5001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-lmx-12-config-server-5001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-lmx-13-config-client-8080/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-lmx-13-config-client-8080/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-lmx-13-config-client-8080/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-lmx-13-config-client-8080/src/main/java/com/lmx/microservice/controller/ConfigClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-lmx-13-config-client-8080/src/main/java/com/lmx/microservice/ConfigClient_8080.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-lmx-12-config-server-5001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="70" selection-start-line="10" selection-start-column="67" selection-end-line="10" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-lmx-14-eureka-config-6001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-lmx-14-eureka-config-6001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-lmx-14-eureka-config-6001/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-lmx-14-eureka-config-6001/src/main/java/com/lmx/microservice/EurekaServer_Config_6001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-lmx-07-provider-product-8002/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="20" column="21" selection-start-line="16" selection-start-column="8" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-lmx-15-product-config-8001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-lmx-03-provider-product-8001/src/main/resources/mybatis/mapper/ProductMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="73" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/java/com/lmx/microservice/service/impl/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/java/com/lmx/microservice/mapper/ProductMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/java/com/lmx/microservice/service/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/resources/mybatis/mapper/ProductMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/resources/mybatis/mybatis.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/java/com/lmx/microservice/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-lmx-15-product-config-8001/src/main/java/com/lmx/microservice/ProductProvider_Config_8001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="22" />
         </state>
       </provider>
     </entry>

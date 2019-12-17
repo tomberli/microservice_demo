@@ -13,6 +13,10 @@
       <module fileurl="file://$PROJECT_DIR$/microservice-lmx-09-provider-product-hystrix-8001/microservice-lmx-09-provider-product-hystrix-8001.iml" filepath="$PROJECT_DIR$/microservice-lmx-09-provider-product-hystrix-8001/microservice-lmx-09-provider-product-hystrix-8001.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-lmx-10-hystrix-dashboard-9001/microservice-lmx-10-hystrix-dashboard-9001.iml" filepath="$PROJECT_DIR$/microservice-lmx-10-hystrix-dashboard-9001/microservice-lmx-10-hystrix-dashboard-9001.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-lmx-11-zuul-gateway-7001/microservice-lmx-11-zuul-gateway-7001.iml" filepath="$PROJECT_DIR$/microservice-lmx-11-zuul-gateway-7001/microservice-lmx-11-zuul-gateway-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-lmx-12-config-server-5001/microservice-lmx-12-config-server-5001.iml" filepath="$PROJECT_DIR$/microservice-lmx-12-config-server-5001/microservice-lmx-12-config-server-5001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-lmx-13-config-client-8080/microservice-lmx-13-config-client-8080.iml" filepath="$PROJECT_DIR$/microservice-lmx-13-config-client-8080/microservice-lmx-13-config-client-8080.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-lmx-14-eureka-config-6001/microservice-lmx-14-eureka-config-6001.iml" filepath="$PROJECT_DIR$/microservice-lmx-14-eureka-config-6001/microservice-lmx-14-eureka-config-6001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-lmx-15-product-config-8001/microservice-lmx-15-product-config-8001.iml" filepath="$PROJECT_DIR$/microservice-lmx-15-product-config-8001/microservice-lmx-15-product-config-8001.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/microservice_demo.iml" filepath="$PROJECT_DIR$/.idea/microservice_demo.iml" />
     </modules>
   </component>
